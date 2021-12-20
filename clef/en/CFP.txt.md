@@ -8,7 +8,7 @@
 ## Deadlines
 
 * Submissions: 9 May 2022 (AoE)  
-* Notifications: 6 June 2022 
+* Notifications: 6 June 2022  
 * CLEF conference: 5 - 8 September 2022  
 
 For more details, check out the [CLEF 2022 Website](https://clef2022.clef-initiative.eu/index.php)
