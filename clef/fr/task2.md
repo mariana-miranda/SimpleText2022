@@ -1,8 +1,9 @@
 
-# SimpleText@CLEF-2021 Tâches pilotes
+# SimpleText@CLEF-2022 Appel à communication
 
 [Accueil](./) | [Appel à communication](./CFP) | [Dates importantes](./dates) | [Tâches pilotes](./tasks)  
-[Programme](./program) | [Publications](./publications) | [Organisation](./organisation) | [Contacts](./contacts) | [<img src="../EN.png" width="30">](../en/task2)
+[Programme](./program) | [Publications](./publications) | [Organisation](./organisation) | [Contacts](./contacts) | [Affiche](./affiche) | [Poster](./poster) | [Video](./video) | [<img src="../EN.png" width="30">](../en/CFP)
+
 
 ---
 
