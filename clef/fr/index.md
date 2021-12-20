@@ -6,7 +6,7 @@
 
 ---
 
-<img align="left" src="../simpletext-logo-blue.png" width="100"/>  
+<img align="left" src="./simpletext-logo-blue.png" width="100"/>  
 
 ## SimpleText-2021 : (Ré)Expliquer des articles scientifiques aux non-spécialistes grâce à la simplification de textes
 
