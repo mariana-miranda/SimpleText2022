@@ -2,15 +2,15 @@
 # SimpleText@CLEF-2022 Appel à communication
 
 [Accueil](./) | [Appel à communication](./CFP) | [Dates importantes](./dates) | [Tâches pilotes](./tasks)  
-[Programme](./program) | [Publications](./publications) | [Organisation](./organisation) | [Contacts](./contacts) | [Affiche](./affiche) | [Poster](./poster)| [Video](./video) | [<img src="../EN.png" width="30">](../en/CFP)
+[Programme](./program) | [Publications](./publications) | [Organisation](./organisation) | [Contacts](./contacts) | [Affiche](./affiche) | [Poster](./poster) | [Video](./video) | [<img src="../EN.png" width="30">](../en/CFP)
 
 ---
 
 ## Dates limites
 
-*	Soumission : 30 avril 2021 (AoE)
-*	Notification : 7 mai 2021
-*	Conférence CLEF : 21 - 24 septembre 2021
+*	Soumission : 9 mai 2022 (AoE)
+*	Notification : 6 juin 2022
+*	Conférence CLEF : 5 - 8 septembre 2022
 
 ## Contexte de l'atelier
 La culture scientifique, dont les questions relatives à la santé, est importante pour permettre aux gens de prendre des décisions en connaissance de cause, d'évaluer la qualité de l'information et de préserver leur santé physiologique et mentale. Par exemple, les informations que les individus trouvent crédibles peuvent déterminer leur réponse à la pandémie de COVID-19, y compris l'application d'une distanciation sociale, l'utilisation de faux traitements médicaux pouvant être dangereux ou les achats de panique. Malheureusement, les informations sur les médias sociaux peuvent être plus faciles à comprendre pour les non-spécialistes que les articles scientifiques, en raison de l'absence de connaissances préalables, d'un langage complexe ou d'un jargon interne. Les textes scientifiques tels que les publications de recherche peuvent également être difficiles à comprendre pour les non-spécialistes du domaine ou pour les scientifiques en dehors du domaine de publication. L'amélioration de la compréhension des textes et leur adaptation à différents publics restent un problème non résolu. D'un point de vue sociétal, SimpleText sera un pas en avant pour rendre la recherche réellement ouverte, accessible et compréhensible pour tout le monde [[1]](#bibliographie), pour développer un contre-discours aux fake news, basé sur des résultats scientifiques, pour permettre aux gens de lire plus rapidement et par conséquent, être plus informés des résultats scientifiques, surtout avec une explosion de la science ouverte pendant la pandémie actuelle de COVID-19. Les textes simplifiés sont également plus accessibles aux locuteurs non natifs [[2]](#bibliographie), aux jeunes lecteurs et aux personnes souffrant de trouble de la lecture [[3]](#bibliographie). De même, la simplification de textes permet d'améliorer les applications d'exploration de texte et de TAL, mais aussi les résultats de la traduction automatique [[4]](#bibliographie). Ainsi, la simplification automatique de textes pourrait être utile dans des domaines variés tels que la communication scientifique, le journalisme scientifique, la politique et l'éducation.
