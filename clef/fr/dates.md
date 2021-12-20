@@ -6,8 +6,8 @@
 ---
 
 * 	**15 novembre 2021 :** Overture des inscriptions
-* **15 novembre 2021 - 22 avril 2022: Campagne d'évaluation
-* **22 avril 2022: Clôture des inscriptions
+* **15 novembre 2021 - 22 avril 2022:** Campagne d'évaluation
+* **22 avril 2022:** Clôture des inscriptions
 *	**6 mai 2022 :** Fin du cycle d'évaluation
 *	**27 mai 2022 :** Soumission des documents des participants [CEUR-WS]
 *	**13 juin 2022 :** Notification d'admission des documents des participants [CEUR-WS]
