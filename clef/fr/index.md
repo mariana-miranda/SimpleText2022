@@ -10,7 +10,8 @@
 
 ## SimpleText-2021 : (Ré)Expliquer des articles scientifiques aux non-spécialistes grâce à la simplification de textes
 
-*SimpleText est un nouvel atelier organisé dans le cadre de la [conference CLEF-2021](http://clef2021.clef-initiative.eu/), lancée par [l'initiative CLEF](http://www.clef-initiative.eu/).*
+*SimpleText est un nouvel atelier organisé dans le cadre de la [conference CLEF-2022](https://clef2022.clef-initiative.eu/), lancée par [l'initiative CLEF](http://www.clef-initiative.eu/).*
+
 
 Les articles d’actualité vérifiés par les *fact-checkers* (vérificateurs de faits) se propagent plus lentement et touchent moins de personnes que les *fake news* (fausses nouvelles). Les informations que les individus trouvent crédibles peuvent déterminer leur réponse à la pandémie de COVID-19, y compris l'application d'une distanciation sociale, l'utilisation de faux traitements médicaux pouvant être dangereux, etc. Les *fake news* jouent sur les émotions des gens, mais elles sont bien plus faciles à comprendre que les documents de recherche, surtout pour les non-spécialistes.
 
