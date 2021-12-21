@@ -6,7 +6,7 @@
 
 ---
 
-## Directives pour les tâches pilotes de SimpleText
+## Directives pour les tâches partagées de SimpleText
 
 Nous vous invitons à soumettre aussi bien des passages automatiques que manuels ! Les interventions manuelles doivent être signalées.
 
@@ -16,9 +16,9 @@ Nous vous invitons à soumettre aussi bien des passages automatiques que manuels
 
 <br>
 
-## Tâche pilote 3 : Simplification de textes scientifiques – Simplification de la langue
+## Tâche partagée 3 : Réécris le texte: Avec une requête, simplifie passages des résumés scientifiques. 
 
-L'objectif de cette tâche pilote est de fournir une version simplifiée des passages de texte. Les participants recevront des requêtes et des résumés d'articles scientifiques. Les résumés peuvent être divisés en phrases comme dans l'exemple : [https://guacamole.univ-avignon.fr/nextcloud/index.php/s/SQTdS2Yowf9dxNa](https://guacamole.univ-avignon.fr/nextcloud/index.php/s/SQTdS2Yowf9dxNa).
+L'objectif de cette tâche est de fournir une version simplifiée des passages de texte. Les participants recevront des requêtes et des résumés d'articles scientifiques. Les résumés peuvent être divisés en phrases comme dans l'exemple : [https://guacamole.univ-avignon.fr/nextcloud/index.php/s/SQTdS2Yowf9dxNa](https://guacamole.univ-avignon.fr/nextcloud/index.php/s/SQTdS2Yowf9dxNa).
 
 *Format de sortie :*  
 
