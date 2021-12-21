@@ -21,6 +21,13 @@ Nous proposons les tâches suivantes :
 * [Tâche 3: Réécris le texte](./task3): Avec une requête, simplifie passages des résumés scientifiques.
 * [Tâche non partagée](./)
 
+Pour faire face à ces défis, SimpleText vise à répondre aux questions de recherche suivantes :
+QR1 - Quelle expression textuelle porteuse d'information doit être simplifiée (document et passage à inclure dans le résumé simplifié)?
+QR2 - Quel type d'information de base devrait être fourni (quels termes devraient être contextualisés en donnant une définition et/ou une application)? Quelles informations sont les plus pertinentes ou les plus utiles?
+QR3 - Comment améliorer la lisibilité d'un texte court donné (par exemple en réduisant le vocabulaire et la complexité syntaxique) avec un taux acceptable de distorsion de l'information?
+
+## Importance pour le domaine et Pertinence pour la CLEF
+
 Les publications scientifiques peuvent être difficiles à lire pour les personnes extérieures au domaine. Par conséquent, elles ne sont pas lues même si elles sont accessibles. La vulgarisation scientifique est [l'un des plus anciens programmes de l'UNESCO](http://www.unesco.org/new/fr/natural-sciences/science-technology/sti-policy/global-focus/science-popularization/), mais la simplification de documents scientifiques est coûteuse et prend du temps. Les utilisateurs ne peuvent pas avoir un résumé instantané et simplifié sur un sujet spécifique qui les intéresse.
 
 Pour commencer à résoudre ce problème, nous proposons un nouvel atelier appelé SimpleText, qui vise à créer une communauté intéressée par la génération d'un résumé simplifié de documents scientifiques et à contribuer à rendre la science réellement ouverte et accessible à tous. L'objectif est de générer un résumé simplifié de plusieurs documents scientifiques à partir d'une requête donnée. La première année, nous prévoyons d'exécuter deux tâches pilotes :  
