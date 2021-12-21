@@ -13,13 +13,13 @@ Nous vous invitons à soumettre aussi bien des passages automatiques que manuels
 
 ---
 
-<button>[Accès](./tasks)</button> | <button>[Tâche pilote 1](./task1)</button> | <button>[Tâche pilote 2](./task2)</button> | <button>[Tâche pilote 3](./task3)</button>
+<button>[Accès](./tasks)</button> | <button>[Tâche partagée 1](./task1)</button> | <button>[Tâche partagée 2](./task2)</button> | <button>[Tâche partagée 3](./task3)</button> | <button> [Tâche non partagée](./task4) </button>
 
 <br>
 
 ## Accès
-Veuillez vous inscrire à l'atelier SimpleText@CLEF afin d'accéder aux données : [http://clef2021-labs-registration.dei.unipd.it/](http://clef2021-labs-registration.dei.unipd.it/)  
-Après l'inscription, vous recevrez un courriel contenant les informations nécessaires pour vous connecter au serveur de données : [https://guacamole.univ-avignon.fr](https://guacamole.univ-avignon.fr)
+Veuillez vous inscrire à l'atelier SimpleText@CLEF afin d'accéder aux données : [https://clef2022.clef-initiative.eu](https://clef2022.clef-initiative.eu/)  
+Après l'inscription, vous recevrez un courriel contenant les informations nécessaires pour vous connecter au serveur de données.
 
 ### Soumission des résultats :
 Les participants doivent placer leurs résultats dans le dossier Documents créé pour leur utilisateur.
