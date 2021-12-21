@@ -7,7 +7,7 @@
 
 ---
 
-## Directives pour les tâches pilotes de SimpleText
+## Directives pour les tâches partagées de SimpleText
 
 Nous vous invitons à soumettre aussi bien des passages automatiques que manuels ! Les interventions manuelles doivent être signalées.
 
@@ -17,9 +17,10 @@ Nous vous invitons à soumettre aussi bien des passages automatiques que manuels
 
 <br>
 
-## Tâche pilote 2 : Identifier les concepts difficiles à comprendre pour les non experts – Simplification de contenu
+## Tâche partagée 2 : Qu'est-ce qui n'est pas clair? Ayant un passage et une requête, classe les termes/concepts à expliquer pour comprendre ce passage (définitions, contexte, applications,...).
 
-L'objectif de cette tâche pilote est de déterminer quels termes (jusqu'à 10) nécessitent une explication et une contextualisation pour aider un lecteur à comprendre un texte scientifique complexe ; par exemple, en ce qui concerne une requête, les termes qui doivent être contextualisés (avec une définition, un exemple et/ou un cas d'utilisation).
+L'objectif de cette tâche partagée est de déterminer quels termes (jusqu'à 10) nécessitent une explication et une contextualisation pour aider un lecteur à comprendre un texte scientifique complexe ; par exemple, en ce qui concerne une requête, les termes qui doivent être contextualisés (avec une définition, un exemple et/ou un cas d'utilisation). La regroupement des termes et les métriques automatiques (NDCG,…) seront utilisées pour évaluer ces résultats.
+
 
 *Fomat de sortie :*  
 
