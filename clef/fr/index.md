@@ -16,7 +16,10 @@
 ## Objectifs et sujet de l'atelier
 SimpleText aborde les défis techniques et les défis d’évaluation en fournissant des données et des repères appropriés pour la simplification du texte.
 Nous proposons les tâches suivantes :
-* [Tâche 1](./task1) 
+* [Tâche 1: Que garder ou supprimer?](./task1): Sélectionne les passages à inclure dans un résumé simplifié, à partit d'une requête 
+* [Tâche 2: Qu'est-ce qui n'est pas clair?](./task2): Ayant un passage et ene requête, classe les termes/concepts à expliquer pour comprendre ce passage (définitions, contexte, applications,...).
+* [Tâche 3: Réécris le texte](./task3): Avec une requête, simplifie passages des résumés scientifiques.
+
 
 Les publications scientifiques peuvent être difficiles à lire pour les personnes extérieures au domaine. Par conséquent, elles ne sont pas lues même si elles sont accessibles. La vulgarisation scientifique est [l'un des plus anciens programmes de l'UNESCO](http://www.unesco.org/new/fr/natural-sciences/science-technology/sti-policy/global-focus/science-popularization/), mais la simplification de documents scientifiques est coûteuse et prend du temps. Les utilisateurs ne peuvent pas avoir un résumé instantané et simplifié sur un sujet spécifique qui les intéresse.
 
