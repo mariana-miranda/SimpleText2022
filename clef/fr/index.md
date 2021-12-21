@@ -22,7 +22,7 @@ Nous proposons les tâches suivantes :
 * [Tâche non partagée](./)
 
 Pour faire face à ces défis, SimpleText vise à répondre aux questions de recherche suivantes :
-QR1 - Quelle expression textuelle porteuse d'information doit être simplifiée (document et passage à inclure dans le résumé simplifié)?
+<br/> QR1 - Quelle expression textuelle porteuse d'information doit être simplifiée (document et passage à inclure dans le résumé simplifié)?
 QR2 - Quel type d'information de base devrait être fourni (quels termes devraient être contextualisés en donnant une définition et/ou une application)? Quelles informations sont les plus pertinentes ou les plus utiles?
 QR3 - Comment améliorer la lisibilité d'un texte court donné (par exemple en réduisant le vocabulaire et la complexité syntaxique) avec un taux acceptable de distorsion de l'information?
 
