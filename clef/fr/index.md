@@ -37,9 +37,9 @@ L'objectif est de créer un résumé simplifié de plusieurs documents scientifi
 ## Configuration de l’évaluation, paramètres et tâches
 Ensemble de données en anglais : Nous utilisons le * Citation Network Dataset* : DBLP+Citation, réseau ACM Citation (https://www.aminer.org/citation). Un index de recherche élastique est fourni aux participants par le biais d’une API GUI. Cet index est adéquat pour :
 * appliquer des méthodes de base de recherche de passages basées sur des modèles de RI vectoriels ou linguistiques,
-* générér des modèles d'Allocation de Dirichlet Latente (en anglais, Latent Dirichlet Allocation),
-* former des *Graph Neural Networks* pour la recommandation de citation telle qu’effectuée dans https://stellargraph.readthedocs.io/ par exemple,
-* appliquer des transformateurs bi directionnels profonds pour l'expansion de requêtes ... requêtes en anglais : Pour cette édition, les requêtes sont une sélection de titres de presse récents du Guardian enrichie de mots-clés extraits manuellement du contenu des articles. Il a été vérifié que chaque mot-clé permet d'extraire au moins 5 résumés pertinents. L'utilisation de ces mots-clés est facultative.
+* générér des modèles d'Allocation de Dirichlet Latente,
+* former des *Graph Neural Networks* pour la recommandation de citation, comme c'est le cas sur https://stellargraph.readthedocs.io/ par exemple,
+* appliquer des Transformers bidirectionnels profonds pour l'expansion de requêtes ... requêtes en anglais : Pour cette édition, les requêtes sont une sélection de titres de presse récents du Guardian enrichie de mots-clés extraits manuellement du contenu des articles. Il a été vérifié que chaque mot-clé permet d'extraire au moins 5 résumés pertinents. L'utilisation de ces mots-clés est facultative.
 
 Format d'entrée pour toute les tâches:
 * Les sujets sont au format MD.
