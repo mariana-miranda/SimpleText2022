@@ -1,7 +1,7 @@
 
 # SimpleText@CLEF-2022 Tâche non partagée
 
-[Accueil](./) | [Appel à communication](./CFP) | [Dates importantes](./dates) | [Tâches](./tasks)  
+[Accueil](./) | [Appel à communication](./CFP) | [Dates importantes](./dates) | [Tâches ](./tasks)  
 [Programme](./program) | [Publications](./publications) | [Organisation](./organisation) | [Contacts](./contacts) | [Affiche](./affiche) | [Poster](./poster) | [Video](./video) | [<img src="./en.png" width="30">](../en/CFP)
 
 
@@ -13,7 +13,7 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 
 ---
 
-<button>[Access](./tasks)</button> | <button>[Shared task 1](./task1)</button> | <button>[Shared task 2](./task2)</button> | <button>[Shared task 3](./task3)</button> | <button>[Unshared task 4](./task4)</button>
+<button>[Accès](./tasks)</button> | <button>[Tâche partagée 1](./task1)</button> | <button>[Tâche partagée 2](./task2)</button> | <button>[Tâche partagée 3](./task3)</button> | <button> [Tâche non partagée](./task4) </button>
 
 <br>
 
