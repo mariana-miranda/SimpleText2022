@@ -14,7 +14,9 @@
 
 
 ## Objectifs et sujet de l'atelier
-Les articles d’actualité vérifiés par les *fact-checkers* (vérificateurs de faits) se propagent plus lentement et touchent moins de personnes que les *fake news* (fausses nouvelles). Les informations que les individus trouvent crédibles peuvent déterminer leur réponse à la pandémie de COVID-19, y compris l'application d'une distanciation sociale, l'utilisation de faux traitements médicaux pouvant être dangereux, etc. Les *fake news* jouent sur les émotions des gens, mais elles sont bien plus faciles à comprendre que les documents de recherche, surtout pour les non-spécialistes.
+SimpleText aborde les défis techniques et les défis d’évaluation en fournissant des données et des repères appropriés pour la simplification du texte.
+Nous proposons les tâches suivantes :
+* [Tâche 1](./task1) 
 
 Les publications scientifiques peuvent être difficiles à lire pour les personnes extérieures au domaine. Par conséquent, elles ne sont pas lues même si elles sont accessibles. La vulgarisation scientifique est [l'un des plus anciens programmes de l'UNESCO](http://www.unesco.org/new/fr/natural-sciences/science-technology/sti-policy/global-focus/science-popularization/), mais la simplification de documents scientifiques est coûteuse et prend du temps. Les utilisateurs ne peuvent pas avoir un résumé instantané et simplifié sur un sujet spécifique qui les intéresse.
 
