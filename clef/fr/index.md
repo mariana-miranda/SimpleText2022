@@ -31,19 +31,14 @@ Les systèmes d’accès à l’information fournissent aux utilisateurs des ren
 
 Bien que quelques études aient été réalisés dans le domaine de la simplification automatique de textes [1], [2], cela reste une tâche difficile. A notre connaissance, il n'existe aucun jeu de données de RI multilingue dans lequel un résumé est écrit dans une langue différente de celle du texte complet. La grande majorité de la littérature est consacrée aux textes en anglais. Peu de travaux ont été réalisés pour des données françaises [3]-[7] et ils ne prennent pas en compte les tâches de sélection de l'information ni ne fournissent de connaissances de base. Contrairement aux projets précédents, SimpleText vise à fournir des connaissances de base manquantes tout en gardant le texte aussi court que possible afin d'aider l'utilisateur à comprendre un texte complexe qui ne peut pas être simplifié davantage sans une distorsion importante de l'information. La recherche de connaissances de base est proche de la piste INEX/CLEF Tweet Contextualization 2011-2014 [27] et de l'atelier CLEF Cultural micro-blog Contextualization 2016, 2017 [34], mais SimpleText s'en distingue en mettant l'accent sur une sélection de notions à expliquer et sur l'utilité des informations fournies plutôt que sur leur pertinence.
 
+## Scénarios
+L'objectif est de créer un résumé simplifié de plusieurs documents scientifiques à partir d'une requête donnée, ce qui permet à l'utilisateur d'obtenir instantanément un résumé simplifié sur un sujet spécifique qui l'intéresse ou de générer un résumé quotidien, par exemple pour ArXiv.
 
-Pour commencer à résoudre ce problème, nous proposons un nouvel atelier appelé SimpleText, qui vise à créer une communauté intéressée par la génération d'un résumé simplifié de documents scientifiques et à contribuer à rendre la science réellement ouverte et accessible à tous. L'objectif est de générer un résumé simplifié de plusieurs documents scientifiques à partir d'une requête donnée. La première année, nous prévoyons d'exécuter deux tâches pilotes :  
+## Configuration de l’évaluation, paramètres et tâches
+Ensemble de données en anglais : Nous utilisons le * Citation Network Dataset* : DBLP+Citation, réseau ACM Citation (https://www.aminer.org/citation). Un index de recherche élastique est fourni aux participants par le biais d’une API GUI. Cet index est adéquat pour :
+* appliquer des méthodes de base de recherche de passages basées sur des modèles de RI vectoriels ou linguistiques
 
-(1) À partir d’un texte scientifique, fournir des informations de base provenant d'une source externe pour aider l'utilisateur à le comprendre ;  
 
-(2) À partir d'un texte scientifique court (par exemple un résumé), générer sa version simplifiée.  
-
-Mots-clés :
-* Simplification de textes scientifiques
-*	Vulgarisation scientifique
-*	Journalisme scientifique
-*	Contextualisation
-*	Connaissances de base
 
 ---
 
