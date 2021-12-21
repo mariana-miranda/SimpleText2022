@@ -7,9 +7,9 @@
 
 ---
 
-## SimpleText Pilot Task Guidelines
+## Directives pour le tâche non partagée de SimpleText
 
-We invite you to submit both automatic and manual runs! Manual intervention should be reported.
+Nous vous invitons à soumettre des analyses automatiques et manuelles ! L’intervention manuelle doit être signalée.
 
 ---
 
@@ -17,6 +17,6 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 
 <br>
 
-## Unshared Task 4
+## Tâche non partagée
 
-We welcome any submission that uses our data! 
+C'est votre choix! Toute soumisson utilisant nos données est la bienvenue !
