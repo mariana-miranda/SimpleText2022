@@ -42,8 +42,8 @@ Ensemble de données en anglais : Nous utilisons le * Citation Network Dataset*
 * appliquer des Transformers bidirectionnels profonds pour l'expansion de requêtes ... requêtes en anglais : Pour cette édition, les requêtes sont une sélection de titres de presse récents du Guardian enrichie de mots-clés extraits manuellement du contenu des articles. Il a été vérifié que chaque mot-clé permet d'extraire au moins 5 résumés pertinents. L'utilisation de ces mots-clés est facultative.
 
 Format d'entrée pour toute les tâches:
-* Les sujets sont au format MD.
-* Articles en texte intégral de *The Guardian* (lien, dossier avec les textes intégraux au format MD).
+* Sujets au format MD.
+* Articles en texte intégral du Guardian (lien, dossier avec les textes intégraux au format MD).
 * Index *ElasticSearch* sur le serveur de données.
 * Dépôt complet de DBLP au format JSON.GZ
 * Résumés DBLP extraits pour chaque sujet dans le format MD suivant (doc_id, année, résumé).
