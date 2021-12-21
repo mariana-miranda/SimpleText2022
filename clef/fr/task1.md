@@ -16,7 +16,7 @@ Nous vous invitons à soumettre aussi bien des passages automatiques que manuels
 
 <br>
 
-## Tâche pilote 1 : Sélectionner les passages à inclure dans un résumé simplifié – Simplification de contenu
+## Tâche partagée 1 : Que garder ou supprimer? Sélectionne les passages à inclure dans un résumé simplifié, à partit d'une requête 
 
 Cette tâche pilote vise à retrouver, dans une grande base de données bibliographiques scientifiques avec résumés, tous les passages qui seraient pertinents pour illustrer un article d'un grand journal international grand public. Les passages extraits doivent pouvoir être insérés comme de simples citations dans l'article original.
 
