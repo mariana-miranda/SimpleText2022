@@ -13,7 +13,7 @@
 *SimpleText est un nouvel atelier organisé dans le cadre de la [conference CLEF-2022](https://clef2022.clef-initiative.eu/), lancée par [l'initiative CLEF](http://www.clef-initiative.eu/).*
 
 
-## Objectifs et sujet de l'atelier
+ <span style="color:red"> ## Objectifs et sujet de l'atelier </span> 
 SimpleText aborde les défis techniques et les défis d’évaluation en fournissant des données et des repères appropriés pour la simplification du texte.
 Nous proposons les tâches suivantes :
 * [Tâche 1: Que garder ou supprimer?](./task1): Sélectionne les passages à inclure dans un résumé simplifié, à partit d'une requête 
