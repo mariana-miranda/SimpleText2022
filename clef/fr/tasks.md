@@ -1,7 +1,7 @@
 
-# SimpleText@CLEF-2022 Appel à communication
+# SimpleText@CLEF-2022 Tâches
 
-[Accueil](./) | [Appel à communication](./CFP) | [Dates importantes](./dates) | [Tâches pilotes](./tasks)  
+[Accueil](./) | [Appel à communication](./CFP) | [Dates importantes](./dates) | [Tâches](./tasks)  
 [Programme](./program) | [Publications](./publications) | [Organisation](./organisation) | [Contacts](./contacts) | [Affiche](./affiche) | [Poster](./poster) | [Video](./video) | [<img src="./en.png" width="30">](../en/CFP)
 
 
