@@ -38,11 +38,11 @@ Pour cette édition, les requêtes sont une sélection de titres de presse réce
 *Format d'entrée pour toutes les tâches :*
 * Sujets au format MD
 
-<img src="../Query1.png">
+<img src="./Query1.png">
 
 * Articles en texte intégral du Guardian (lien, dossier query_related_content avec textes intégraux au format MD)
 * Index ElasticSearch sur le serveur de données suivant (par exemple) : [https://guacamole.univ-avignon.fr/nextcloud/index.php/apps/files/?dir=/simpleText/queries&fileid=570352](https://guacamole.univ-avignon.fr/nextcloud/index.php/apps/files/?dir=/simpleText/queries&fileid=570352)
 * Dépôt complet du DBLP au format JSON.GZ
 * Extraction des résumés DBLP pour chaque sujet dans le format MD suivant (doc_id, year, abstract) :
 
-<img src="../MDformat.png">
+<img src="./MDformat.png">
