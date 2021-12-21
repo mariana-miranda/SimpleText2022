@@ -6,7 +6,7 @@
 
 ---
 
-## Directives pour les tâches pilotes de SimpleText
+## Directives pour les tâches partagées de SimpleText
 
 Nous vous invitons à soumettre aussi bien des passages automatiques que manuels ! Les interventions manuelles doivent être signalées.
 
