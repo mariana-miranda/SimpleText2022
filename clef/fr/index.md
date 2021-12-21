@@ -36,8 +36,10 @@ L'objectif est de créer un résumé simplifié de plusieurs documents scientifi
 
 ## Configuration de l’évaluation, paramètres et tâches
 Ensemble de données en anglais : Nous utilisons le * Citation Network Dataset* : DBLP+Citation, réseau ACM Citation (https://www.aminer.org/citation). Un index de recherche élastique est fourni aux participants par le biais d’une API GUI. Cet index est adéquat pour :
-* appliquer des méthodes de base de recherche de passages basées sur des modèles de RI vectoriels ou linguistiques
-
+* - appliquer des méthodes de base de recherche de passages basées sur des modèles de RI vectoriels ou linguistiques
+* - 
+* - 
+* - 
 
 
 ---
