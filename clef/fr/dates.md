@@ -17,3 +17,7 @@
 *	**5-8 septembre 2022 :** Conférence CLEF-2022
 Pour plus d'informations, cliquez [ici](http://clef2021.clef-initiative.eu/index.php?page=Pages/schedule.html)
 
+
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="./logo-clef-initiative.png" width="150">](http://www.clef-initiative.eu/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="./logo_clef_2022.png" width="200">](https://clef2022.clef-initiative.eu/) 
