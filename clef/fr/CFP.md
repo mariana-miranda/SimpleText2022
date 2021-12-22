@@ -59,3 +59,8 @@ Modèle pour la soumission : [https://ceurws.wordpress.com/2020/03/31/ceurws-pub
 [2] A. Siddharthan, ‘An architecture for a text simplification system’, presented at the Proceedings of the Language Engineering Conference 2002 (LEC 2002), 2002, Accessed: Nov. 20, 2020. [Online]. Available: [http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.1.9968&rank=1](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.1.9968&rank=1).  
 [3] K. Inui, A. Fujita, T. Takahashi, R. Iida, and T. Iwakura, ‘Text simplification for reading assistance: a project note’, in Proceedings of the second international workshop on Paraphrasing - Volume 16, USA, Jul. 2003, pp. 9–16, doi: 10.3115/1118984.1118986.  
 [4] E. Hasler, A. de Gispert, F. Stahlberg, A. Waite, and B. Byrne, ‘Source sentence simplification for statistical machine translation’, Comput. Speech Lang., vol. 45, no. C, pp. 221–235, Sep. 2017, doi: 10.1016/j.csl.2016.12.001.
+
+
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="./logo-clef-initiative.png" width="150">](http://www.clef-initiative.eu/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="./logo_clef_2022.png" width="200">](https://clef2022.clef-initiative.eu/) 
