@@ -61,6 +61,4 @@ Modèle pour la soumission : [https://ceurws.wordpress.com/2020/03/31/ceurws-pub
 [4] E. Hasler, A. de Gispert, F. Stahlberg, A. Waite, and B. Byrne, ‘Source sentence simplification for statistical machine translation’, Comput. Speech Lang., vol. 45, no. C, pp. 221–235, Sep. 2017, doi: 10.1016/j.csl.2016.12.001.
 
 
----
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="./logo-clef-initiative.png" width="150">](http://www.clef-initiative.eu/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="./logo_clef_2022.png" width="200">](https://clef2022.clef-initiative.eu/) 
