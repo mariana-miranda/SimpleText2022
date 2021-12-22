@@ -1,7 +1,7 @@
 
 # SimpleText@CLEF-2022 Contacts
 
-[Accueil](./) | [Appel à communication](./CFP) | [Dates importantes](./dates) | [Tâches](./tasks) | [Outils] (./tools)  
+[Accueil](./) | [Appel à communication](./CFP) | [Dates importantes](./dates) | [Tâches](./tasks) | [Outils](./tools)  
 [Programme](./program) | [Publications](./publications) | [Organisation](./organisation) | [Contacts](./contacts) | [Affiche](./affiche) | [Poster](./poster) | [Video](./video) | [<img src="./en.png" width="30">](../en/CFP)
 
 ---
@@ -12,6 +12,6 @@ Twitter : [https://twitter.com/SimpletextW](https://twitter.com/SimpletextW)
 
 Groupe Google : [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext)
 
-Site internet de CLEF : [https://clef2022.clef-initiative.eu/index.php](https://clef2022.clef-initiative.eu/index.php)
+Site internet de CLEF : [https://clef2022.clef-initiative.eu/](https://clef2022.clef-initiative.eu/)
  
 N'hésitez pas à nous contacter par e-mail pour tout renseignement : [contact@simpletext-project.com](mailto:contact@simpletext-project.com)
