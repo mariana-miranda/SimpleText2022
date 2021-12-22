@@ -9,13 +9,17 @@
 
 [Liana Ermakova](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Ermakova--Liana) (Présidente), HCTI – EA 4249, Université de Bretagne Occidentale (Brest, France)
 
-[Patrice Bellot](https://ins2i.cnrs.fr/fr/personne/patrice-bellot), Laboratoire d’Informatique et Systèmes (LIS – CNRS/Aix-Marseille Université/Université de Toulon), Université de Aix-Marseille
+[Sílvia Araújo](http://cehum.ilch.uminho.pt/researchers/25), Departement of Romance Studies, University of Minho (Gualtar, Braga) 
 
-[Pavel Braslavski](http://kansas.ru/pb/index_en.html), Combinatorial Algebra Lab, Ural Federal University, JetBrains Research (Russia).
+[Patrice Bellot](https://www.ins2i.cnrs.fr/fr/personne/patrice-bellot), Laboratoire d’Informatique et Systèmes (LIS – CNRS/Aix-Marseille Université/Université de Toulon), Université de Aix-Marseille
 
-[Jaap Kamps](https://e.humanities.uva.nl/), Faculty of Humanities, University of Amsterdam
+[Radia Hannachi](https://www.linkedin.com/in/radia-hannachi-0157141b/?originalSubdomain=fr), Université de Bretagne Sud (Lorient, France)
 
-[Josiane Mothe](https://www.irit.fr/~Josiane.Mothe/), INSPE, Université de Toulouse, IRIT, UMR5505 CNRS
+[Stéphane Huet](https://cv.archives-ouvertes.fr/shuet), Université d'Avignon
+
+[Jaap Kamps](https://e.humanities.uva.nl/), Faculty oh Humanities, University of Amsterdam
+
+[Elise Mathurin](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Mathurin--Elise), Université de Bretagne Occidentale (Brest, France)
 
 [Diana Nurbakova](https://liris.cnrs.fr/page-membre/diana-nurbakova),  Institut National des Sciences Appliquées de Lyon, INSA, (Lyon, France).
 
@@ -23,4 +27,6 @@
 
 [Eric San-Juan](https://termwatch.es/), Laboratoire d’Informatique d’Avignon,Institut de technologie de Avignon (Avignon, France)
 
-[Groupe Google](https://groups.google.com/g/simpletext)
+[Albin Digue](https://www.linkedin.com/in/albin-digue-07b3b4197/) & [Julien Jouan](https://www.linkedin.com/in/julien-jouan-39b49721b/), responsables sur la maintenance du site
+
+Plus d'informations disponibles sur le [site CLEF-2022](https://clef2022.clef-initiative.eu) 
