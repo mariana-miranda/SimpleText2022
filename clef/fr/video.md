@@ -6,7 +6,7 @@
 
 
 
-
+[Video informatif sur la conférence](https://videos.simpleshow.com/T3EUWVpkuY)
 
 
 
