@@ -6,9 +6,9 @@
 
 
 
-<img src="./video.png" alt="https://videos.simpleshow.com/T3EUWVpkuY"> 
-
-
+<a href="default.asp">
+  <img src="./video.png" alt="https://videos.simpleshow.com/T3EUWVpkuY">
+</a>
 
 ---
 
