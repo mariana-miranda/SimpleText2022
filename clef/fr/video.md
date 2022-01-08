@@ -6,7 +6,8 @@
 
 
 
-[Video informatif sur la conférence](https://videos.simpleshow.com/T3EUWVpkuY)
+<img src= ".video.png" (https://videos.simpleshow.com/T3EUWVpkuY)>
+
 
 
 
