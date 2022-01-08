@@ -6,9 +6,7 @@
 
 
 
-<img src="./video.png"> (https://videos.simpleshow.com/T3EUWVpkuY)>
-
-
+<img src="./video.png" alt="https://videos.simpleshow.com/T3EUWVpkuY"> 
 
 
 
